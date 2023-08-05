@@ -1,0 +1,185 @@
+*
+{
+    color: white;
+}
+body
+{
+    background-color: black;
+}
+.icon
+{
+    width: 10%;
+    height: 10%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 90%;
+}
+.div2
+{
+    width: 30%;
+    height: 10%;
+}
+.div2 ul
+{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+nav
+{
+    display: flex;
+    justify-content: space-between;
+}
+.div2 ul li:hover
+{
+    background-color: orangered;
+    width: 20%;
+    height: 50%;
+}
+.img img
+{
+    width: 60%;
+    height: 40%;
+    min-width: 120px;
+}
+.img
+{
+    position: absolute;
+    left: 70%;
+    top: 0px;
+    text-align: center;
+}
+.gk
+{
+    font-size: 40px;
+}
+.kk
+{
+    font-size: 70px;
+}
+.text
+{
+    line-height: 1.4;
+}
+.text1
+{
+    line-height: 1.8;
+}
+button
+{
+    color:white;
+    width: 90px;
+    height: 40px;
+    background-color: orangered;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+section
+{
+    position: absolute;
+    top: 20%;
+    width: 100vw;
+    height: 60vw;
+}
+.red img
+{
+    width: 130px;
+    height: 140px;
+}
+.red
+{
+    position: relative;
+    top: 20px;
+    left: 60px;
+}
+#btn
+{
+    width: 80px;
+    height: 40px;
+    position: relative;
+    top: 30px;
+    left: 90px;
+    background-color:white;
+    color: black;
+    font-size: 20px;
+}
+.sec2
+{
+    display: flex;
+    width: 100%;
+    height: 40vh;
+}
+section
+{
+    position: relative;
+    top: 50px;
+    width: 100vw;
+    height: 50vh;
+}
+#add
+{
+    margin-left: 50px;
+}
+#nam
+{
+    margin-left: 30px;
+}
+#submit
+{
+    color: black;
+}
+.fa-brands
+{
+    color: white;
+}
+.Contacts
+{
+    display: flex;
+    gap: 300px;
+    position: relative;
+    top: 120px;
+}
+.logos
+{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.contact
+{
+    width: 40%;
+    text-align: center;
+}
+#btn:hover
+{
+    background-color: orangered;
+    width: 90px;
+    height: 50px;
+    transition: ease-in-out;
+    transition: 0.2s;
+}
+.fa-brands:hover
+{
+font-size: 50px;
+color: orangered;
+transition: ease-in-out;
+}
+input
+{
+    background: transparent;
+    outline: none;
+}
+h2
+{
+    text-decoration: underline orangered;
+}
+button:hover
+{
+    background-color: white;
+    color: black;
+}
