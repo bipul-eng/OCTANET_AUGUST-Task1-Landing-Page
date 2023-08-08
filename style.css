@@ -38,6 +38,7 @@ nav
     background-color: black;
     width: 20%;
     height: 50%;
+    cursor: pointer;
 }
 .img img
 {
